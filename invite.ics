@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231121
+DTEND;VALUE=DATE:20231122
+RRULE:FREQ=DAILY
+DTSTAMP:20231121T220247Z
+ORGANIZER;CN=taylorherrera.dan80@gmail.com:mailto:taylorherrera.dan80@gmail
+ .com
+UID:3b0c8c4c7f51455b9785bd88a5b1607c
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=Tev Da
+ rbyson;X-NUM-GUESTS=0:mailto:tevdarbyson@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/uuc-kugk-zjc
+CLASS:PUBLIC
+CREATED:20231121T215306Z
+DESCRIPTION:So me conosen soy in mentiroso narcissista Que no save respetar
+  a una mujer porque me creaton machista y golpeador y sin empatia para nadi
+ e ni nada de lo Que hago. Sigo buscando a mi esposa y teniendo relaciones s
+ exuales y rogandole Que regrese conmigo\, pero ya no quiere. Yo tengo que c
+ onfesar Que es buena\, todo lo Que dije y me viltiaba a ella era por mi enf
+ erma mentalidad por las cosas Que e echo y de lo Que fui y soy capas de hac
+ er. - Noel Daniel Jauregui Ceja\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: htt
+ ps://meet.google.com/uuc-kugk-zjc\n\nLearn more about Meet at: https://supp
+ ort.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n
+ -::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~::~:~::-
+LAST-MODIFIED:20231121T220238Z
+LOCATION:Friendly Dr\, \, Vista CA 92084\, United States
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
